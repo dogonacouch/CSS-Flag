@@ -1,0 +1,24 @@
+
+.box-1 {
+    Width: 600px;
+    height: 400px;
+    
+    } 
+.first{
+    background-color: blue;
+    width: 200px;
+    height: 100%;
+    float: left;
+}
+.second{
+    background-color: yellow;
+    width: 200px;
+    height: 100%;
+    float: left;
+}
+.third{
+    background-color: red;
+    width: 200px;
+    height: 100%;
+    float: left;
+}
